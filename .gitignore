@@ -12,3 +12,7 @@ dist/
 # SO
 .DS_Store
 Thumbs.db
+# ---- secrets / arquivos locais ----
+.env
+oddrive-*.json
+project-snapshot-*.txt
